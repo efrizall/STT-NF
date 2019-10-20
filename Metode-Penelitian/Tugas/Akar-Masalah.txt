@@ -1,0 +1,10 @@
+# akar masalah
+- Mahasiswa STT NF tidak mengetahui informasi terbaru yang ada dalam website eLen STT NF -
+
+teknologi :
+1. Belum ada aplikasi mobile
+2. Tidak adanya pemberitahuan
+
+mahasiswa:
+1. malas membuka membuka website eLen
+2. mengeluhkan tidak adanya pemberitahuan yang muncul
